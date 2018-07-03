@@ -618,6 +618,13 @@
 				</data>
 			</dict>
 		</array>
+		<key>Audio</key>
+		<dict>
+			<key>Inject</key>
+			<integer>15</integer>
+			<key>ResetHDA</key>
+			<true/>
+		</dict>
 		<key>FakeID</key>
 		<dict>
 			<key>IntelGFX</key>
