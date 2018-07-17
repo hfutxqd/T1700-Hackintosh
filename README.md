@@ -6,4 +6,4 @@ CPU: Intel Core i7 4770
 
 
 ## Issues
-Board-in Audio
+~~Board-in Audio~~ 
